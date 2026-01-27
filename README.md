@@ -11,16 +11,15 @@ Currently diving deep into **game development** with Unreal Engine 5 and C++, wh
 ## 💡 What I Know
 
 - **Generative AI & Agent Workflows** - Building intelligent UI with AI-driven systems
-- **Full-stack Development** - From vanilla JavaScript to modern frameworks
+- **Full-stack Development** - From vanilla JavaScript to modern frameworks, Python, and Go
 - **Game Development** - Learning UE5 and C++ for 3D game development
 - **Cross-disciplinary Problem Solving** - 6 years in biomedical engineering taught me to think differently and manage projects efficiently
 
 ## 🛠️ Featured Projects
 
-- **[paldeck](https://github.com/hackastak/paldeck)** - Full-featured PalWorld companion with pal info, maps, and breeding guides
-- **[hackadex](https://github.com/hackastak/hackadex)** - Pokédex clone supporting official games and ROM hacks
-- **[WeatherUp](https://github.com/hackastak/WeatherUp)** - Clean weather app built with vanilla JS and OpenWeather API
-- **[devwig-portfolio](https://github.com/hackastak/devwig-portfolio)** - My developer portfolio site
+- **[BillScribe](https://github.com/hackastak/BillScribe)** - Minimal invoice creation and management application designed for freelancers
+- **[Artemist](https://github.com/hackastak/artemist)** - Another minimalist application for issue tracking designed for solo developers and small teams
+- **[MossKeep](https://github.com/hackastak/MossKeep)** - Basic CRM for busy professionals who understand their business doesn't exist without their clients
 
 ## 🤝 Let's Collaborate
 
