@@ -19,7 +19,6 @@ Currently diving deep into **game development** with Unreal Engine 5 and C++, wh
 
 - **[BillScribe](https://github.com/hackastak/BillScribe)** - Minimal invoice creation and management application designed for freelancers
 - **[Artemist](https://github.com/hackastak/artemist)** - Another minimalist application for issue tracking designed for solo developers and small teams
-- **[MossKeep](https://github.com/hackastak/MossKeep)** - Basic CRM for busy professionals who understand their business doesn't exist without their clients
 
 ## 🤝 Let's Collaborate
 
