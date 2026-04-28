@@ -19,7 +19,7 @@ Currently diving deep into **AI** for improving developer experience and product
 ## 🛠️ Featured Projects
 
 - **[BillScribe](https://github.com/hackastak/BillScribe)** - Minimal invoice creation and management application designed for freelancers
-- **[Artemist](https://github.com/hackastak/artemist)** - Another minimalist application for issue tracking designed for solo developers and small teams
+- **[RepoG](https://github.com/hackastak/repog)** - CLI Tool for remembering all the repos you've starred so you don't have to
 
 ## 🤝 Let's Collaborate
 
