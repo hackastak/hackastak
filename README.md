@@ -12,14 +12,20 @@ Currently diving deep into **AI** for improving developer experience and product
 
 - **Generative AI & Agent Workflows** - Building intelligent UI with AI-driven systems
 - **Full-stack Development** - From vanilla JavaScript to modern frameworks, Python, and Go
+- **Software Architecture** - I don't just build pieces, I will always nerd about the whole system
+- **Cross-disciplinary Problem Solving** - 6 years in biomedical engineering taught me to think differently and manage projects efficiently
+
+## 🧠 Where My ADHD Has Taken Me
+- **Blog Writing** - I LOVE technology as a whole, so much so that I research and write about anything and everything tech in my free time
 - **Game Development** - Learning UE5 and C++ for 3D game development
 - **3D Modeling** - From Creo Parametric to Blender
-- **Cross-disciplinary Problem Solving** - 6 years in biomedical engineering taught me to think differently and manage projects efficiently
+- **Additive Manufacturing** - 3D Printing via filament extrusion
 
 ## 🛠️ Featured Projects
 
 - **[BillScribe](https://github.com/hackastak/BillScribe)** - Minimal invoice creation and management application designed for freelancers
-- **[RepoG](https://github.com/hackastak/repog)** - CLI Tool for remembering all the repos you've starred so you don't have to
+- **[RepoG](https://github.com/hackastak/repog)** - CLI tool for remembering all the repos you've starred so you don't have to
+- **[Medium Blog](https://medium.com/@hackastak)** - My blog for expressing all of my most radical ideas and maybe teach someone a thing or two
 
 ## 🤝 Let's Collaborate
 
@@ -32,6 +38,4 @@ Not actively looking for collaborations, but if you need a second pair of eyes o
 - **LinkedIn:** [hunter-wiginton](https://www.linkedin.com/in/hunter-wiginton/)
 
 ---
-
-*"I'm not the tech enthusiast kind of engineer. I'm the kind the destroys my printer for asking if it can connect to other devices."*
 
