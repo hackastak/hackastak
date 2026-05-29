@@ -1,6 +1,6 @@
 # Hi, I'm Hunter 👋
 
-**Software Engineer** | Memphis, TN | Building better user experiences
+**Software Engineer** | Memphis, TN | Building AI solutions and better user experiences
 
 From biomedical engineering to software development—I bring a unique perspective to solving problems through code.
 
