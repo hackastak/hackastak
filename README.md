@@ -6,7 +6,7 @@ From biomedical engineering to software development—I bring a unique perspecti
 
 ## 🚀 What I'm Up To
 
-Currently diving deep into **AI** for improving developer experience and productivityf, while juggling as many side projects as humanly possible. I thrive on variety and love exploring new technologies.
+Currently diving deep into **AI** for improving developer experience and productivity, while juggling as many side projects as humanly possible. I nerd out on exploring new technologies, and often spend my free time reading documentation and learning about the next best thing.
 
 ## 💡 What I Know
 
