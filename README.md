@@ -23,13 +23,13 @@ Currently diving deep into **AI** for improving developer experience and product
 
 ## 🛠️ Featured Projects
 
-- **[BillScribe](https://github.com/hackastak/BillScribe)** - Minimal invoice creation and management application designed for freelancers
+- **[Staksmith](https://github.com/hackastak/staksmith)** - Personal collection of AI skills & agents; custom made with inspiration from industry leaders
 - **[RepoG](https://github.com/hackastak/repog)** - CLI tool for remembering all the repos you've starred so you don't have to
 - **[Medium Blog](https://medium.com/@hackastak)** - My blog for expressing all of my most radical ideas and maybe teach someone a thing or two
 
 ## 🤝 Let's Collaborate
 
-Not actively looking for collaborations, but if you need a second pair of eyes on something interesting, I'm happy to help for the love of the game.
+Not actively looking for collaborations, but, for the love of the game, if you need a second pair of eyes on something interesting, I'm happy to help.
 
 ## 📬 Get In Touch
 
